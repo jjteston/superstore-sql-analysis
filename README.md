@@ -25,8 +25,8 @@ Columns: 24
 Records: 52,290
 
 ## 📂 Project Structure
-- `sql_queries/` → Contains all SQL queries used for analysis  
-- `analysis/` → Contains detailed insights and findings  
+- `sql_queries/` → Contains the complete SQL script with all queries used in the analysis  
+- `analysis/` → Contains a detailed and interactive breakdown of each analysis, including explanations, key insights, and selected query snippets  
 
 ## 📊 Key Analyses
 - Total Revenue and Profit  
