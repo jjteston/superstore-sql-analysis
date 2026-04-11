@@ -20,7 +20,7 @@ The objective is to help a retail business understand:
 - Exploratory Data Analysis (EDA)
 
 ## 📂 Dataset Description
-Dataset: [Global Super Store Dataset](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)  
+Dataset: [↪Global Super Store Dataset](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)  
 Columns: 24  
 Records: 52,290
 
