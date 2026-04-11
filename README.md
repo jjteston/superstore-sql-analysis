@@ -45,6 +45,13 @@ Records: 52,290
 - Sales exhibit strong seasonality, consistently peaking in November and December, with the highest monthly revenue reaching ~$509K.  
 - Profitability declines sharply beyond a 20% discount, with higher discount levels often resulting in negative margins, indicating unsustainable pricing strategies.
 
+## 📌 Recommendations
+- Limit discount levels to below 20% to maintain profitability  
+- Focus on high-margin categories like Technology to maximize profit  
+- Improve cost efficiency in low-margin categories such as Furniture  
+- Target high-value customers with personalized offers  
+- Leverage peak seasonal months (Nov–Dec) with strategic campaigns  
+
 ## 📬 Contact
 If you have feedback, questions, or opportunities, feel free to connect with me:
 
